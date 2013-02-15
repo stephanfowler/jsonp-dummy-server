@@ -1,4 +1,4 @@
 node-http-server
 ================
 
-Simple node+express http server for static files
+Simple node+express dummy server that echoes jsonp post requests, and serves static files.
